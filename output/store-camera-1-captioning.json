@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "4269e4d2-47dd-4557-8888-5079a33e083b",
+  "content-length": "165",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a woman and a girl in a grocery store",
+    "confidence": 0.7761029005050659
+  },
+  "metadata": {
+    "width": 1024,
+    "height": 682
+  }
+}
